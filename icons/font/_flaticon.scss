@@ -1,0 +1,98 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 19/07/2019 18:25
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-magic-wand:before { content: "\f100"; }
+.flaticon-desktop-monitor:before { content: "\f101"; }
+.flaticon-programming:before { content: "\f102"; }
+.flaticon-paper-plane:before { content: "\f103"; }
+.flaticon-wordpress:before { content: "\f104"; }
+.flaticon-wordpress-1:before { content: "\f105"; }
+.flaticon-mobileme-logo-of-black-cloud:before { content: "\f106"; }
+.flaticon-happy:before { content: "\f107"; }
+.flaticon-tag-button-with-happy-face:before { content: "\f108"; }
+.flaticon-happy-1:before { content: "\f109"; }
+.flaticon-search:before { content: "\f10a"; }
+.flaticon-location-pin:before { content: "\f10b"; }
+.flaticon-envelope:before { content: "\f10c"; }
+.flaticon-call-answer:before { content: "\f10d"; }
+.flaticon-twitter-logo-silhouette:before { content: "\f10e"; }
+.flaticon-facebook-logo:before { content: "\f10f"; }
+.flaticon-google-plus:before { content: "\f110"; }
+.flaticon-linkedin:before { content: "\f111"; }
+.flaticon-vk:before { content: "\f112"; }
+.flaticon-snapchat:before { content: "\f113"; }
+.flaticon-logo:before { content: "\f114"; }
+.flaticon-pinterest:before { content: "\f115"; }
+.flaticon-brands-and-logotypes:before { content: "\f116"; }
+.flaticon-behance-logo:before { content: "\f117"; }
+.flaticon-chevron-arrow-down:before { content: "\f118"; }
+.flaticon-download:before { content: "\f119"; }
+.flaticon-musica-searcher:before { content: "\f11a"; }
+.flaticon-magnifier:before { content: "\f11b"; }
+.flaticon-zoom-out:before { content: "\f11c"; }
+    
+    $font-Flaticon-magic-wand: "\f100";
+    $font-Flaticon-desktop-monitor: "\f101";
+    $font-Flaticon-programming: "\f102";
+    $font-Flaticon-paper-plane: "\f103";
+    $font-Flaticon-wordpress: "\f104";
+    $font-Flaticon-wordpress-1: "\f105";
+    $font-Flaticon-mobileme-logo-of-black-cloud: "\f106";
+    $font-Flaticon-happy: "\f107";
+    $font-Flaticon-tag-button-with-happy-face: "\f108";
+    $font-Flaticon-happy-1: "\f109";
+    $font-Flaticon-search: "\f10a";
+    $font-Flaticon-location-pin: "\f10b";
+    $font-Flaticon-envelope: "\f10c";
+    $font-Flaticon-call-answer: "\f10d";
+    $font-Flaticon-twitter-logo-silhouette: "\f10e";
+    $font-Flaticon-facebook-logo: "\f10f";
+    $font-Flaticon-google-plus: "\f110";
+    $font-Flaticon-linkedin: "\f111";
+    $font-Flaticon-vk: "\f112";
+    $font-Flaticon-snapchat: "\f113";
+    $font-Flaticon-logo: "\f114";
+    $font-Flaticon-pinterest: "\f115";
+    $font-Flaticon-brands-and-logotypes: "\f116";
+    $font-Flaticon-behance-logo: "\f117";
+    $font-Flaticon-chevron-arrow-down: "\f118";
+    $font-Flaticon-download: "\f119";
+    $font-Flaticon-musica-searcher: "\f11a";
+    $font-Flaticon-magnifier: "\f11b";
+    $font-Flaticon-zoom-out: "\f11c";
