@@ -297,6 +297,9 @@ nav .brand-title{
 .last p{font-size: 12px;}
 .last span{color: #ec3237; font-weight: 600; font-size:14px;}
  /*end last*/
-
+ @media (max-width: 575.98px) { 
+	.header-content h1{font-size: 2.5em;}
+	.header .ar{margin: 0px; padding: 0px;}
+ }
 
 
