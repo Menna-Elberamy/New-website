@@ -51,6 +51,9 @@ nav .nav-link{
 	color: #fff !important;
 	transition: all 1s;
 }
+.navbar-nav .nav-link {
+    padding-left: 20px !important;
+}
 nav .nav-link:hover{
 	color: #ec3237 !important;
 }
